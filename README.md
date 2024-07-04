@@ -10,7 +10,3 @@ Welcome to my Github page! I am Haoran (Brian), a junior undergraduate student f
 Foundation Models, Natural Language Processing, Multimodal AI
 
 
-<figure class="half">
-	<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=hrlics&show_icons=true&hide_border=true" />
-</figure>
-
