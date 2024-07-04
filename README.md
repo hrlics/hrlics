@@ -6,7 +6,7 @@
  
 Welcome to my Github page! I am Haoran (Brian), a junior undergraduate student from Sichuan University and currently an exchange student at The Hong Kong Polytechnic University.
 
-### 🚀 My Research Interest 
+### 🚀 My Research Interests 
 Foundation Models, Natural Language Processing, Multimodal AI
 
 
